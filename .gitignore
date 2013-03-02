@@ -1,1 +1,7 @@
 *.o
+moc*
+*~
+*.so
+debian/files
+build-stamp
+debian/qt-components-hildon*
