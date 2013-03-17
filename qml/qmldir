@@ -45,6 +45,7 @@ PageStackWindow 1.0 PageStackWindow.qml
 PageStackWindowStyle 1.0 PageStackWindowStyle.qml
 ProgressBar 1.0 ProgressBar.qml
 ProgressBarStyle 1.0 ProgressBarStyle.qml
+Popup 1.0 Popup.qml
 QueryDialog 1.0 QueryDialog.qml
 QueryDialogStyle 1.0 QueryDialogStyle.qml
 RatingIndicator 1.0 RatingIndicator.qml

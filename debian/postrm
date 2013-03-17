@@ -1,0 +1,7 @@
+#!/bin/sh
+
+
+rm /usr/lib/qt4/imports/org/hildon
+rmdir --ignore-fail-on-non-empty /usr/lib/qt4/imports/org/
+
+exit 0
